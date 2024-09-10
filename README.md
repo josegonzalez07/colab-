@@ -1,2 +1,0 @@
-# colab-
-codigos de phyton
